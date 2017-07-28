@@ -14,7 +14,7 @@ subtitle: "The page is under construction."
 email: cyli2014@sjtu.edu.cn
 name: Darwin Li
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  The page is under construction.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -82,13 +82,6 @@ social:
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: true
-
-  - name: Zhihu
-    icon: zhihu
-    username: Darwin Li
-    url: https://www.zhihu.com/people/darwin-lee-75
-    desc: Follow me on Zhihu
     share: true
 
   - name: GitHub
