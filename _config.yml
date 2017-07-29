@@ -51,8 +51,11 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: diary
+    desc: "Life experience and thoughts."
+
+  - cat: project
+    desc: "Posts describing projects and instructions."
 
 # Social icons and sharing options
 #
@@ -193,6 +196,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/cyli2014/cyli2014.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:cyli2014/cyli2014.github.io.git"
