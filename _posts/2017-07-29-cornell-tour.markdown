@@ -5,7 +5,7 @@ date:   2017-07-29 16:52:59
 author: Darwin Li
 categories: Diary
 tags:	Cornell summer
-cover:  "/assets/instacode.png"
+cover:  "/assets/cornell.jpg"
 ---
 
 I attended Cornell Summer Program after spring semester in 2017. During the program we were taught by Prof. Elaine Shi and Prof. David Gries, had social events with professors and PhDs in Cornell and had a lot of afterschool activities like Niagara Falls tour etc. I would like to write a brief summary here to be in memory of the unforgettable summer.
