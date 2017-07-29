@@ -48,14 +48,14 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
   - cat: diary
     desc: "Life experience and thoughts."
 
   - cat: project
     desc: "Posts describing projects and instructions."
+
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
 
 # Social icons and sharing options
 #
@@ -190,8 +190,8 @@ social:
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image_width: 600
+    fb_image_height: 600
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"
