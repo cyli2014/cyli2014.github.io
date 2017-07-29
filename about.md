@@ -24,4 +24,4 @@ permalink: /about/
 
 * You can download my CV [here][cv].
 
-[cv]: https://github.com/bencentra/centrarium
+[cv]: https://github.com/cyli2014/cyli2014.github.io/raw/master/CV_Li%20Chengyao.pdf
