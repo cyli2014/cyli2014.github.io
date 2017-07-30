@@ -8,7 +8,7 @@ permalink: /projects/
 
 This project is for Science and Technology Innovation (Part 4-A) in Shanghai Jiao Tong University. The project requires a master-slave communication system including three subsystems such as water-heating system, ultrasonic system and motor system, which are monitored by MSP430 MCU. We are supposed to use RS-422 serial bus to establish connection between three subsystems and the local controller. Thus we need to build a GUI on local PC to control the subsystems conveniently. We use C# to build the GUI and finally achieve controling the subsystems through bus and WiFi simultaneously. Click [here][EI316] to see corresponding codes. 
 
-<img src="{{ site.baseurl }}/assets/logo.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/EI316.JPG" title="Profile Picture" class="profile">
 
 ### DIP_EE346
 
