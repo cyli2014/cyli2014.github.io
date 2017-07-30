@@ -8,7 +8,7 @@ tags:	welcome navigation
 cover:  "/assets/welcome.jpg"
 ---
 
-Nice to meet you here :-). I would like to briefly introduce my home page below.
+Nice to meet you here :-) I would like to briefly introduce my home page below.
 
 ### About
 
