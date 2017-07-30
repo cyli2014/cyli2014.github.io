@@ -31,4 +31,4 @@ My email address, [github account][github-account] and social network are always
 By clicking on the `D` icon in the top left corner you can get back to the initial page.
 
 [github-account]:	https://github.com/cyli2014
-[cv]:				www.baidu.com
+[cv]:				https://github.com/cyli2014/cyli2014.github.io/raw/master/CV_Li%20Chengyao.pdf
