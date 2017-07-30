@@ -24,11 +24,11 @@ This page briefly introduces my projects and help you to get familiar with what 
 
 ### Contact Information
 
-My email address, [github account][github-account] and social network are always attached on the bottom of the site. You can easily contact with me if interested. 
+My email address, [github account][github-account] and social network are always attached on the bottom of the site. You can easily contact me if interested. 
 
 ### Hint
 
-By clicking on the `D` icon in the top left corner you can get back to the initial page.
+By clicking on the D icon in the top left corner you can get back to the initial page.
 
 [github-account]:	https://github.com/cyli2014
 [cv]:				https://github.com/cyli2014/cyli2014.github.io/raw/master/CV_Li%20Chengyao.pdf
