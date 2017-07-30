@@ -54,8 +54,8 @@ descriptions:
   - cat: project
     desc: "Posts describing projects and instructions."
 
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: welcome
+    desc: "Welcome pages."
 
 # Social icons and sharing options
 #
