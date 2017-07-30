@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-cover:  "/assets/instacode.png"
 ---
 
 ### STI-4A_EI316
