@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Darwins Home
+title: Darwin's Home
 subtitle: "Live for yourself."
 email: cyli2014@sjtu.edu.cn
 name: Darwin Li
