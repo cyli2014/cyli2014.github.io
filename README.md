@@ -1,6 +1,6 @@
 # cyli2014.github.io
 
-[Personal home page][homepage] forked from a Jekyll theme [Centrarium][centrarium] by Ben Centra. 
+[A personal home page][homepage] forked from a Jekyll theme [Centrarium][centrarium] by Ben Centra. 
 
 It works on GitHub Pages. If you are interested in this theme you can go to [Centrarium][centrarium-github] or fork my repository directly and turn it into your own home page.
 
@@ -11,7 +11,7 @@ All configuration options can be found in `_config.yml`. I would like to introdu
 ### Site Settings
 
 * __title:__ The title for your site. Displayed in the navigation menu, the `index.html` header, and the footer. You need to change it into your own title. 
-* __subtitle:__ The subtitle of your site. Displayed in the `index.html` header and below your title in real page. Change it if needed.
+* __subtitle:__ The subtitle of your site. Displayed in the `index.html` header and below your title in actual page. Change it if needed.
 * __email:__ Your email address, displayed with the Contact info in the footer. 
 * __name:__ Your name. _Currently unused._
 * __description:__ The description of your site. Used for search engine results and displayed in the footer. I use it as copyright messages for fun.
@@ -26,12 +26,12 @@ Your personal social network settings are combined with the social sharing optio
 
 ```yml
 social:
-  - name: Twitter                         		# Name of the service
-    icon: twitter                         		# Font Awesome icon to use (minus fa- prefix)
+  - name: Twitter                         # Name of the service
+    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
     username: Darwin632063265                	# (User) Name to display in the footer link
     url: https://twitter.com/Darwin632063265	# URL of your profile (leave blank to not display in footer)
-    desc: Follow me on Twitter            		# Description to display as link title, etc
-    share: true                          	 	# Include in the "Share" section of posts
+    desc: Follow me on Twitter            # Description to display as link title, etc
+    share: true                           # Include in the "Share" section of posts
 ```
 
 ### Category Descriptions
@@ -66,7 +66,7 @@ permalink: /projects/
 ---
 ```
 
-Words on navigation bar will change after change the `title` above. If you want to add navigation columns, just add new files in the root of your repository. Both `.md` and `.html` work. If you don't need it anymore, delete the file directly.
+Words on navigation bar will change after you edit the `title` above. If you want to add navigation columns, just add new files in the root of your repository. Both `.md` and `.html` work. If you don't need it anymore, delete the file directly.
 
 ### Adding posts
 
