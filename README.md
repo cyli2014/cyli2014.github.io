@@ -26,12 +26,12 @@ Your personal social network settings are combined with the social sharing optio
 
 ```yml
 social:
-  - name: Twitter                         # Name of the service
-    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+  - name: Twitter                         		# Name of the service
+    icon: twitter                         		# Font Awesome icon to use (minus fa- prefix)
     username: Darwin632063265                	# (User) Name to display in the footer link
     url: https://twitter.com/Darwin632063265	# URL of your profile (leave blank to not display in footer)
-    desc: Follow me on Twitter            # Description to display as link title, etc
-    share: true                           # Include in the "Share" section of posts
+    desc: Follow me on Twitter            	# Description to display as link title, etc
+    share: true                           	# Include in the "Share" section of posts
 ```
 
 ### Category Descriptions
@@ -88,7 +88,7 @@ You can choose a category defined above. Tags are not self-generated and need ed
 
 ## Acknowledgement
 
-Special thanks to [Centrarium][centrarium] by Ben Centra.
+Special thanks to [Centrarium][centrarium] by Ben Centra. Detailed introduction of this theme can be found on his [repository][centrarium-github].
 
 [homepage]:		https://cyli2014.github.io
 [centrarium]:	http://bencentra.com/centrarium/
