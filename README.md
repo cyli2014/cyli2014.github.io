@@ -16,7 +16,7 @@ All configuration options can be found in `_config.yml`. I would like to introdu
 * __name:__ Your name. _Currently unused._
 * __description:__ The description of your site. Used for search engine results and displayed in the footer. I use it as copyright messages for fun.
 * __baseurl:__ The subpath of your site (e.g. /blog/). __Set it to blank if you use GiuHub domain directly and change it only when you totally understand the structure of your site!__ If the css design disappears with only words left you may probably need to check this setting. 
-* __url:__ The base hostname and protocol for your site. If you use GitHub domain directly change it into a url like _http://xxxx.github.io_.
+* __url:__ The base hostname and protocol for your site. If you use GitHub domain directly change it into _http://yourusername.github.io_.
 * __cover:__ The relative path to your site's cover image.
 * __logo:__ The relative path to your site's logo. Used in the navigation menu instead of the title if provided.
 
