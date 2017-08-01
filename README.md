@@ -26,8 +26,8 @@ Your personal social network settings are combined with the social sharing optio
 
 ```yml
 social:
-  - name: Twitter                         		# Name of the service
-    icon: twitter                         		# Font Awesome icon to use (minus fa- prefix)
+  - name: Twitter                         	# Name of the service
+    icon: twitter                         	# Font Awesome icon to use (minus fa- prefix)
     username: Darwin632063265                	# (User) Name to display in the footer link
     url: https://twitter.com/Darwin632063265	# URL of your profile (leave blank to not display in footer)
     desc: Follow me on Twitter            	# Description to display as link title, etc
