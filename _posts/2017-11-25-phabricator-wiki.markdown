@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Phabricator Wiki"
+date:   2017-11-27 10:57:59
+author: Darwin Li
+categories: Wiki
+tags:	Phabricator
+cover:  "/assets/welcome.jpg"
+---
+
 # Phabricator 环境配置
 
 ## Before You Start
@@ -40,7 +50,7 @@ sudo docker pull redpointgames/phabricator
 sudo docker pull mysql:5.7.14
 ```
 
-### Step 3 - 下载工程所需代码
+## Step 3 - 下载工程所需代码
 
 * Facebook Phabricator源代码
 
@@ -60,7 +70,7 @@ git clone https://github.com/RedpointGames/phabricator
 git clone --recursive http://gitlab.sjtudoit.com/glory/phabricator
 ```
 
-### Step 4 - 配置 `docker-compose.yml`文件
+## Step 4 - 配置 `docker-compose.yml`文件
 
 假设docker-compose脚本（Code #2）的存储路径为 `/home/username/phabricator2/phabricator` 。打开Code #2中的 `docker-compose.yml` 文件。
 
@@ -124,7 +134,7 @@ sudo docker-compose up
 
 并停滞不动时，表明工作正常。
 
-### Step 5 - 安装配置nginx
+## Step 5 - 安装配置nginx
 
 在终端输入
 
@@ -184,7 +194,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 sudo nginx -s reload
 ```
 
-### Step 6 - 安装配置RVM
+## Step 6 - 安装配置RVM
 
 在终端输入
 
@@ -201,7 +211,7 @@ rvm -v
 
 测试RVM是否正常安装。
 
-### Step 7 - 安装配置Ruby
+## Step 7 - 安装配置Ruby
 
 在终端输入
 
@@ -250,6 +260,6 @@ bundle
 
 即可。
 
-Step 8 - Test Your Environment
+## Step 8 - Test Your Environment
 
 To be continued.
