@@ -72,19 +72,19 @@ git clone --recursive http://gitlab.sjtudoit.com/glory/phabricator
 
 ## Step 4 - 配置 `docker-compose.yml`文件
 
-假设docker-compose脚本（Code #2）的存储路径为 `/home/username/phabricator2/phabricator` 。打开Code #2中的 `docker-compose.yml` 文件。
+假设docker-compose脚本（Code #2）的存储路径为 `/home/username/phabricator2/phabricator` 。打开Code #2中的 `docker-compose.yml` 文件。假设本项目所需代码（Code #3）的存储路径为 `/home/username/phabricator3/phabricator` 。
 
 将代码第10、11行修改为
 
 ```yml
- - /home/username/phabricator2/phabricator/repos:/repos
- - /home/username/phabricator2/phabricator/extensions:/srv/phabricator/phabricator/src/extensions
+ - /home/username/phabricator3/phabricator/repos:/repos
+ - /home/username/phabricator3/phabricator/extensions:/srv/phabricator/phabricator/src/extensions
 ```
 
 在第11行下新增
 
 ```yml
- - /home/username/phabricator2/phabricator/scripts:/scripts
+ - /home/username/phabricator3/phabricator/scripts:/scripts
 ```
 
 在第17行下新增
@@ -116,7 +116,7 @@ git clone --recursive http://gitlab.sjtudoit.com/glory/phabricator
 修改第32行为
 
 ```yml
- - /home/username/phabricator2/phabricator/mysql:/var/lib/mysql
+ - /home/username/phabricator3/phabricator/mysql:/var/lib/mysql
 ```
 
 保存修改。在终端中输入
